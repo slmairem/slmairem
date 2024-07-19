@@ -2,7 +2,7 @@
 <h3 align="center">Full-time Computer Engineering Student, Part-time Self-Taught Artist</h3>
 
 - 👯 I’m mostly interested in websites. **Especially front-end.**
-- 🎨 In my free time I looked at different websites for gaining impressions.
+- 🎨 In my free time I look at different websites to gain impressions.
 - 🧐 I share all my projects in here with detailed read.me!
 - 🐣 I also use BBCode a lot.
 
